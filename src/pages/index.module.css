@@ -1,0 +1,9 @@
+/*CSS Module : 기존 css 파일을 모듈처럼 이용*/
+
+.h1 {
+  color: purple;
+}
+
+.h2 {
+  color: plum;
+}
