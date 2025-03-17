@@ -1,0 +1,30 @@
+.container {
+  background-color: white;
+  max-width: 600px;
+  min-height: 100vh; /*뷰포트 화면 세로로 가득 채움*/
+  margin: 0 auto;
+
+  box-shadow: 10px 10px 30px rgb(195, 132, 195);
+  padding: 0px 15px;
+}
+
+.header {
+  height: 60px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 60px;
+}
+
+.header > a {
+  color: black;
+  text-decoration: none;
+}
+
+.main {
+  padding: 10px 0 0;
+}
+
+.footer {
+  padding: 100px 0 20px 0; /*임시*/
+  color: gray;
+}
